@@ -10,12 +10,7 @@ Utilize **Google Colab** to create a Machine Learning model that can identify an
 - **Python 3.6 or higher**
 - **TensorFlow 2.x**
 - **Keras (included with TensorFlow 2.x)**
-  
-You can install TensorFlow using pip:
-```
-pip install tensorflow
 
-```
 
 ## Steps to Create a Model
 
